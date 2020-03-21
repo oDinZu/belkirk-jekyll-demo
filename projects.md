@@ -13,6 +13,8 @@ services:
   icon: ''
 show_news: true
 show_staff: true
+heading: heyo project o hero heading
+sub_heading: sub hero heading
 menu:
   navigation:
     identifier: _projects
