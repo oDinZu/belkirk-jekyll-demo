@@ -11,6 +11,8 @@ services:
 - heading: Description
   description: Description goes here
   icon: ''
+show_news: true
+show_staff: true
 menu:
   navigation:
     identifier: _projects
