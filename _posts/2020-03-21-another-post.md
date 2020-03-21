@@ -7,6 +7,6 @@ tags: []
 banner_image: ''
 related_posts: []
 text: "**Test area for text WWYSIG**"
-textarea: ''
+textarea: Test area for text WWYSIGTest area for text WWYSIGTest area for text WWYSIG
 
 ---
