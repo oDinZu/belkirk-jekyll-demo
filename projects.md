@@ -6,6 +6,11 @@ publish_date: '2017-11-01T03:00:00.000+00:00'
 hero_button:
   text: Hero Button
   href: Hero Button
+textline: This is a description of the Projects Page
+services:
+- heading: Description
+  description: Description goes here
+  icon: ''
 menu:
   navigation:
     identifier: _projects
