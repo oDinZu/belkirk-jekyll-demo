@@ -30,6 +30,11 @@ fields:
     schema:
       format: markdown
   label: text
+- name: textarea
+  type: text
+  config:
+    required: false
+  label: textarea
 - type: file
   name: banner_image
   label: Banner Image
